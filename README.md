@@ -1,1 +1,3 @@
-# good-old-project.github.io
+# Good old project
+
+### Enhancement for inactive maintained projects
